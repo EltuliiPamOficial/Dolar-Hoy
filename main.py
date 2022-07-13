@@ -2,7 +2,7 @@ from PyQt5 import QtWidgets, uic
 from bs4 import BeautifulSoup
 import requests
 
-### Web Scraping
+### Web Scraping ###
 
 #Extracting the data from the website
 url = 'https://dolarhoy.com/'
@@ -23,7 +23,7 @@ db_venta = soup.find_all('div', class_='venta')
 
 dolar_blue_venta = db_venta[0].text
 
-### Web Scraping.
+### Web Scraping. ###
 
 # Iniciar La Aplicacion
 app = QtWidgets.QApplication([])
