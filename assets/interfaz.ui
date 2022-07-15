@@ -27,7 +27,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>icono.ico</normaloff>icono.ico</iconset>
+    <normaloff>Dolar.ico</normaloff>Dolar.ico</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:1, stop:0 rgba(85, 0, 127, 255), stop:1 rgba(149, 149, 149, 255));</string>
