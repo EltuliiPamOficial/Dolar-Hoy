@@ -29,7 +29,7 @@ dolar_blue_venta = db_venta[0].text
 app = QtWidgets.QApplication([])
 
 # Cargar Archivos .Ui
-interfaz = uic.loadUi('Assets/interfaz.ui')
+interfaz = uic.loadUi('Assets/Interfaz.ui')
 
 # Hacer Funcionar Los Objetos. 
 def Salir():
